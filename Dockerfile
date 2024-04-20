@@ -1,4 +1,4 @@
-# 使用官方的 Ubuntu 基础镜像
+# 使用官方的 Ubuntu 基础镜像1
 FROM ubuntu:latest
 
 # 安装 ca-certificates 包，用于更新根证书
