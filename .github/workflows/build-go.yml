@@ -2,7 +2,9 @@ name: Go
 
 on:
   release:
-    push:
+  push:
+    branches:
+      - main
     types: [ "created" ]
 
 jobs:
